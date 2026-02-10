@@ -9,7 +9,7 @@
 
 ```bash
 openssl rand -base64 182
-````
+```
 
 > Génère **182 octets aléatoires** encodés en **Base64**
 
