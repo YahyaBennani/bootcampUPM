@@ -2,7 +2,7 @@
 
 ---
 
-````md
+
 # 🛡️ OpenSSL Cheat Sheet – Cryptographie & Sécurité
 
 ## 🔢 Génération de données aléatoires
